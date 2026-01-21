@@ -61,3 +61,4 @@ void PrintGroup(string[,] groups)
         Console.WriteLine();
     }
 }
+
