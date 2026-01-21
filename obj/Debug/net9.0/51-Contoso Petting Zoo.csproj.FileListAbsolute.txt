@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\bin\Debug\net9.0\51-Contoso Petting Zoo.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\bin\Debug\net9.0\51-Contoso Petting Zoo.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\bin\Debug\net9.0\51-Contoso Petting Zoo.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\bin\Debug\net9.0\51-Contoso Petting Zoo.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\bin\Debug\net9.0\51-Contoso Petting Zoo.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\refint\51-Contoso Petting Zoo.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\51-Contoso Petting Zoo.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\51-Contoso Petting Zoo\obj\Debug\net9.0\ref\51-Contoso Petting Zoo.dll
